@@ -5,7 +5,9 @@
 FOR THE CLIENT SIDE
 
 [ :white_check_mark: ] Player protection
+
 [ :white_check_mark: ] Anti God Mode
+
 [ :white_check_mark: ] Anti Invincible
 [ :white_check_mark: ] Anti Speed Hack
 [ :white_check_mark: ] Anti Teleport Hack
