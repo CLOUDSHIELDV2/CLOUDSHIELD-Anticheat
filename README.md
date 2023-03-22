@@ -2,7 +2,8 @@
 
 :shield:BUZZSHIELD | Protected your Server:shield:
 
-FOR THE CLIENT SIDE
+----------------------------------------------------------
+**FOR THE CLIENT SIDE**
 
 [ :white_check_mark: ] Player protection
 
@@ -80,6 +81,7 @@ FOR THE CLIENT SIDE
 
 [ :gear: ] Anti Skript Grabing (Coming Soon)
 
+----------------------------------------------------------
 **FOR THE SERVER SIDE**
 
 [ :white_check_mark: ] CollectServerResourceList
@@ -140,7 +142,8 @@ FOR THE CLIENT SIDE
 
 [ :white_check_mark: ] AntitazeSpam
 
-ANTI INJECTION
+----------------------------------------------------------
+**ANTI INJECTION**
 
 [ :white_check_mark: ] Anti Injection
 
@@ -154,7 +157,8 @@ ANTI INJECTION
 
 [ :white_check_mark: ] Anti Menu Injection
 
-OTHER FEATURES
+----------------------------------------------------------
+**OTHER FEATURES**
 
 [ :white_check_mark: ] Discord Log
 
