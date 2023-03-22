@@ -1,5 +1,7 @@
 # BUZZSHIELD-FiveM-Anticheat
 
+
+
 :shield:BUZZSHIELD | Protected your Server:shield:
 
 ----------------------------------------------------------
@@ -175,3 +177,36 @@
 [ :white_check_mark: ] Auto Update
 
 [ :white_check_mark:] Global Ban
+
+----------------------------------------------------------
+ Securestart by BuzzShield
+
+Anti Driveby by BuzzShield
+
+Anti Execute by BuzzShield
+
+Anti Skript by BuzzShield
+
+Basic Vehicle Speed Boost System by BuzzShield
+
+Special Gang System by BuzzShield
+
+BUZZSHIELD & STORE DISCORD
+⇨ https://discord.gg/buzzshield
+BUZZSHIELD STORE
+⇨ https://buzz-shield.tebex.io/
+YOUTUBE CHANNEL
+⇨ https://www.youtube.com/@BUZZSHIELD
+
+**BUZZSHIELD | Best FiveM Anticheat | Teaser |**
+https://youtu.be/H9odMlporH0
+
+**BUZZSHIELD Anticheat | Best FiveM Anticheat in FiveM | V0 0 1 Showcase | Anti Eulen**
+https://youtu.be/1ECUSG5Gdvo
+
+**BUZZSHIELD | Anti Eulen Execute Showcase | Best FiveM Anticheat**
+https://youtu.be/kPNUcj9zBL4
+
+**BUZZSHIELD | AntiWeaponHack Showcase | Best Anticheat in FiveM**
+https://youtu.be/6JURiWIZOFc
+
