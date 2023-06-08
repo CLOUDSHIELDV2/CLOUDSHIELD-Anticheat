@@ -1,16 +1,13 @@
-# BUZZSHIELD-FiveM-Anticheat
+# CLOUDSHIELD-FiveM-Anticheat
 
 
-:shield:BUZZSHIELD | Protected your Server:shield:
+:shield:CLOUDSHIELD | Protected your Server:shield:
 
-**BUZZSHIELD DISCORD**
+**CLOUDSHIELD DISCORD**
 ⇨ https://discord.gg/buzzshield
 
-**BUZZSHIELD STORE**
-⇨ https://buzz-shield.tebex.io/
-
 **YOUTUBE CHANNEL**
-⇨ https://www.youtube.com/@BUZZSHIELD
+⇨ https://www.youtube.com/@CLOUDSHIELDV2
 
 
 ----------------------------------------------------------
