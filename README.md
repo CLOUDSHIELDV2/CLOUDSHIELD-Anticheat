@@ -4,7 +4,7 @@
 :shield:CLOUDSHIELD | Protected your Server:shield:
 
 **CLOUDSHIELD DISCORD**
-⇨ https://discord.gg/buzzshield
+⇨ https://discord.gg/m5pjWPbdNE
 
 **YOUTUBE CHANNEL**
 ⇨ https://www.youtube.com/@CLOUDSHIELDV2
